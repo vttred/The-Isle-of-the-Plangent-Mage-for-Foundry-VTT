@@ -1,4 +1,4 @@
-# template-public-distribution-repo
+# The Isle of the Plangent Mage for Foundry VTT
 
 ## Where to Purchase Premium Content
 
